@@ -1,0 +1,10 @@
+google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
+numpy==1.26.4
+pandas==2.2.2
+gensim==4.3.3
+matplotlib==3.10.0
+wordcloud==1.9.4
+Sastrawi==1.0.1
+nltk==3.9.1
+requests==2.32.3
+sklearn-pandas==2.2.0
